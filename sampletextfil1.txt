@@ -1,4 +1,8 @@
 this is sample 1
 
 git revert commit 1
+<<<<<<< Updated upstream
 sumanth stash urgent
+=======
+sumanth stash
+>>>>>>> Stashed changes
