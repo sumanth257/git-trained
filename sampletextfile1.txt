@@ -2,3 +2,4 @@ this is sample 1
 
 
 reset one
+this is stash lecture 
