@@ -1,3 +1,8 @@
 this is sample 2
 
+<<<<<<< HEAD
 git revert commit 2
+=======
+
+reset two
+>>>>>>> 16166b19fb7e9657629f8974c35afacc89cbb5c9
